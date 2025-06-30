@@ -5,9 +5,6 @@
 
 A responsive web app that fetches and displays country data from the REST Countries API. Search, filter, and explore details like population, capital, and region—all in a clean, dark-mode-friendly interface.
 
-![Screenshot](https://i.imgur.com/placeholder.png)  
-*(Replace with actual screenshot link)*
-
 ## ✨ Features
 
 - **Instant Search**: Find countries by name in real-time
