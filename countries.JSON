@@ -1,0 +1,181 @@
+[
+  {
+    "name": { "common": "Kenya" },
+    "population": 53771300,
+    "region": "Africa",
+    "capital": ["Nairobi"],
+    "flags": { "png": "https://flagcdn.com/w320/ke.png" }
+  },
+  {
+    "name": { "common": "Nigeria" },
+    "population": 206139589,
+    "region": "Africa",
+    "capital": ["Abuja"],
+    "flags": { "png": "https://flagcdn.com/w320/ng.png" }
+  },
+  {
+    "name": { "common": "Egypt" },
+    "population": 102334404,
+    "region": "Africa",
+    "capital": ["Cairo"],
+    "flags": { "png": "https://flagcdn.com/w320/eg.png" }
+  },
+  {
+    "name": { "common": "South Africa" },
+    "population": 59308690,
+    "region": "Africa",
+    "capital": ["Pretoria"],
+    "flags": { "png": "https://flagcdn.com/w320/za.png" }
+  },
+  {
+    "name": { "common": "Ghana" },
+    "population": 31072940,
+    "region": "Africa",
+    "capital": ["Accra"],
+    "flags": { "png": "https://flagcdn.com/w320/gh.png" }
+  },
+
+  {
+    "name": { "common": "Germany" },
+    "population": 83240000,
+    "region": "Europe",
+    "capital": ["Berlin"],
+    "flags": { "png": "https://flagcdn.com/w320/de.png" }
+  },
+  {
+    "name": { "common": "France" },
+    "population": 67081000,
+    "region": "Europe",
+    "capital": ["Paris"],
+    "flags": { "png": "https://flagcdn.com/w320/fr.png" }
+  },
+  {
+    "name": { "common": "Italy" },
+    "population": 59554023,
+    "region": "Europe",
+    "capital": ["Rome"],
+    "flags": { "png": "https://flagcdn.com/w320/it.png" }
+  },
+  {
+    "name": { "common": "Spain" },
+    "population": 47329981,
+    "region": "Europe",
+    "capital": ["Madrid"],
+    "flags": { "png": "https://flagcdn.com/w320/es.png" }
+  },
+  {
+    "name": { "common": "Sweden" },
+    "population": 10353442,
+    "region": "Europe",
+    "capital": ["Stockholm"],
+    "flags": { "png": "https://flagcdn.com/w320/se.png" }
+  },
+
+  {
+    "name": { "common": "China" },
+    "population": 1444216107,
+    "region": "Asia",
+    "capital": ["Beijing"],
+    "flags": { "png": "https://flagcdn.com/w320/cn.png" }
+  },
+  {
+    "name": { "common": "India" },
+    "population": 1393409038,
+    "region": "Asia",
+    "capital": ["New Delhi"],
+    "flags": { "png": "https://flagcdn.com/w320/in.png" }
+  },
+  {
+    "name": { "common": "Japan" },
+    "population": 126300000,
+    "region": "Asia",
+    "capital": ["Tokyo"],
+    "flags": { "png": "https://flagcdn.com/w320/jp.png" }
+  },
+  {
+    "name": { "common": "South Korea" },
+    "population": 51269185,
+    "region": "Asia",
+    "capital": ["Seoul"],
+    "flags": { "png": "https://flagcdn.com/w320/kr.png" }
+  },
+  {
+    "name": { "common": "Indonesia" },
+    "population": 273523621,
+    "region": "Asia",
+    "capital": ["Jakarta"],
+    "flags": { "png": "https://flagcdn.com/w320/id.png" }
+  },
+
+  {
+    "name": { "common": "United States" },
+    "population": 331002651,
+    "region": "Americas",
+    "capital": ["Washington, D.C."],
+    "flags": { "png": "https://flagcdn.com/w320/us.png" }
+  },
+  {
+    "name": { "common": "Canada" },
+    "population": 38005238,
+    "region": "Americas",
+    "capital": ["Ottawa"],
+    "flags": { "png": "https://flagcdn.com/w320/ca.png" }
+  },
+  {
+    "name": { "common": "Mexico" },
+    "population": 128932753,
+    "region": "Americas",
+    "capital": ["Mexico City"],
+    "flags": { "png": "https://flagcdn.com/w320/mx.png" }
+  },
+  {
+    "name": { "common": "Brazil" },
+    "population": 212559409,
+    "region": "Americas",
+    "capital": ["Brasília"],
+    "flags": { "png": "https://flagcdn.com/w320/br.png" }
+  },
+  {
+    "name": { "common": "Argentina" },
+    "population": 45195777,
+    "region": "Americas",
+    "capital": ["Buenos Aires"],
+    "flags": { "png": "https://flagcdn.com/w320/ar.png" }
+  },
+
+  {
+    "name": { "common": "Australia" },
+    "population": 25687041,
+    "region": "Oceania",
+    "capital": ["Canberra"],
+    "flags": { "png": "https://flagcdn.com/w320/au.png" }
+  },
+  {
+    "name": { "common": "New Zealand" },
+    "population": 5084300,
+    "region": "Oceania",
+    "capital": ["Wellington"],
+    "flags": { "png": "https://flagcdn.com/w320/nz.png" }
+  },
+  {
+    "name": { "common": "Fiji" },
+    "population": 896444,
+    "region": "Oceania",
+    "capital": ["Suva"],
+    "flags": { "png": "https://flagcdn.com/w320/fj.png" }
+  },
+  {
+    "name": { "common": "Papua New Guinea" },
+    "population": 8947024,
+    "region": "Oceania",
+    "capital": ["Port Moresby"],
+    "flags": { "png": "https://flagcdn.com/w320/pg.png" }
+  },
+  {
+    "name": { "common": "Samoa" },
+    "population": 198410,
+    "region": "Oceania",
+    "capital": ["Apia"],
+    "flags": { "png": "https://flagcdn.com/w320/ws.png" }
+  }
+]
